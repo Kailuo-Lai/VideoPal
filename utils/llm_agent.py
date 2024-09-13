@@ -118,7 +118,7 @@ class LLMSingleActionAgent(BaseSingleActionAgent):
             "observation_prefix": "" if len(self.stop) == 0 else self.stop[0],
         }
         
-# Define the custom prompt template and output parser
+# Define the custom prompt template and output parser, which classifies the query into one of three categories
 class CustomPromptTemplate(StringPromptTemplate):
     template: str
     tools: List[Tool]
