@@ -152,3 +152,9 @@ We are grateful for the following awesome projects our VideoPal arising from:
 -   [multilingual-e5-large](https://huggingface.co/intfloat/multilingual-e5-large): A multilingual text embedding
 -   [KTS](https://inria.hal.science/hal-01022967/PDF/video_summarization.pdf): An algorithm for video summarization
 -   [Helsinki](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en): Open neural machine translation models
+
+## 🤝 Contributors
+
+<a href="https://github.com/Kailuo-Lai/VideoPal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kailuo-Lai/VideoPal" />
+</a>
