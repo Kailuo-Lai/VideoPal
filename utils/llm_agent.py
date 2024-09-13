@@ -167,7 +167,8 @@ class CustomPromptTemplate(StringPromptTemplate):
         kwargs["response"] = response
 
         return self.template.format(**kwargs)
-    
+
+## Define the custom output parser    
 class CustomOutputParser(AgentOutputParser):
     def parse(self, llm_output: str,input:str) -> Union[AgentAction, AgentFinish]:
         
