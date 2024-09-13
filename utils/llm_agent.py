@@ -35,6 +35,7 @@ Query: "{query}"
 
 # """
 
+# Define the agent class
 class LLMSingleActionAgent(BaseSingleActionAgent):
     """Base class for single action agents."""
 
@@ -117,7 +118,7 @@ class LLMSingleActionAgent(BaseSingleActionAgent):
             "observation_prefix": "" if len(self.stop) == 0 else self.stop[0],
         }
         
-
+# Define the custom prompt template and output parser
 class CustomPromptTemplate(StringPromptTemplate):
     template: str
     tools: List[Tool]
