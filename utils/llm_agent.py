@@ -168,7 +168,7 @@ class CustomPromptTemplate(StringPromptTemplate):
 
         return self.template.format(**kwargs)
 
-## Define the custom output parser    
+## Define the custom output parser, which classifies the query into one of three categories    
 class CustomOutputParser(AgentOutputParser):
     def parse(self, llm_output: str,input:str) -> Union[AgentAction, AgentFinish]:
         
