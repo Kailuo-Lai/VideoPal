@@ -1,6 +1,6 @@
 <p align="center" width="100%">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <a target="_blank"><img src="VideoPal_logo.jpeg" alt="Video-LLaMA" style="width: 30%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
@@ -173,6 +173,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kailuo-Lai"><img src="https://avatars.githubusercontent.com/u/63568415?v=4?s=100" width="100px;" alt="Kailuo"/><br /><sub><b>Kailuo</b></sub></a><br /><a href="https://github.com/Kailuo-Lai/Kailuo-Lai/VideoPal/commits?author=Kailuo-Lai" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YUO4YUM"><img src="https://avatars.githubusercontent.com/u/80525698?v=4?s=100" width="100px;" alt="chenminghao"/><br /><sub><b>chenminghao</b></sub></a><br /><a href="https://github.com/Kailuo-Lai/Kailuo-Lai/VideoPal/commits?author=YUO4YUM" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
