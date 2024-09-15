@@ -2,6 +2,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
 <a target="_blank"><img src="VideoPal_logo.jpeg" alt="Video-LLaMA" style="width: 30%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
@@ -155,12 +157,6 @@ We are grateful for the following awesome projects our VideoPal arising from:
 -   [multilingual-e5-large](https://huggingface.co/intfloat/multilingual-e5-large): A multilingual text embedding
 -   [KTS](https://inria.hal.science/hal-01022967/PDF/video_summarization.pdf): An algorithm for video summarization
 -   [Helsinki](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en): Open neural machine translation models
-
-## 🤝 Contributors
-
-<a href="https://github.com/Kailuo-Lai/VideoPal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kailuo-Lai/VideoPal" />
-</a>
 
 ## Contributors ✨
 
